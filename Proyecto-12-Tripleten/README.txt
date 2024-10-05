@@ -14,8 +14,7 @@ Pasos para ejecutar los archivos
 Acceso al Dashboard en Tableau Public:
 
 Haz clic en el Link https://acortar.link/BBdNeG Esto abrirá la página web del dashboard en el servidor de Tableau Public.
-En caso de que la página web no se abra dando clic copia el link y pegalo directamente en tu navegador o en el PDF de la 
-presentacion al final esta el link que los llevara al dashboard.
+En caso de que la página web no se abra dando clic copia el link y pegalo directamente en tu navegador o en el principio de este repositorio abajo esta el link completo que los llevara al dashboard.
 
 Presentación PDF:
 
